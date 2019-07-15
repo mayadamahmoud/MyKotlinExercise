@@ -1,0 +1,1 @@
+class User (s: String, id: Int)
