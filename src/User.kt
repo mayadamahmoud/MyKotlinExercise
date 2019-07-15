@@ -1,2 +1,1 @@
-class User {
-}
+class User (s: String, id: Int)
